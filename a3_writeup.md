@@ -4,7 +4,7 @@ Assignment 3 is all about creating this natural language query system.  In order
 
 ## Reflection Questions
 1. In your own words describe the `search_pa_list` function.
-
+The search_pa_list functions is in charge of searching through the list full of patterns that is similar to the user's query response. 
 
 2. What movie did you add to the `movies.py` file?  What year was it made? Any specific reason you added that movie?
 
